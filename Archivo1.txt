@@ -2,3 +2,4 @@ Archivo1
 Agrego una linea
 
 Agregado en remoto
+Tarea 1.2
