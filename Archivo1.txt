@@ -12,3 +12,5 @@ Tarea1 No Merge
 
 Tarea no prueba1
 Tarea no prueba2
+
+Cambio stash2
