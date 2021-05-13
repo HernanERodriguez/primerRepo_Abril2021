@@ -1,0 +1,20 @@
+Cambio sin finalizar
+
+OK
+
+Cambios OK
+Cambios OK
+Cambios OK
+Cambios OK
+Cambios KO
+Cambios KO
+Cambios KO
+Cambios KO
+Cambios KO
+
+for (i = 0; i < 10; i++)
+{
+   console.log("i: " + i);
+   console.dir("Mitad i: " + (i/2));
+   console.log("Doble i: " + (i*2));
+}

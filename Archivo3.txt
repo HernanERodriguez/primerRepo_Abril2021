@@ -1,5 +1,12 @@
 Archivo3
 
 Tarea 1.1
-
 Cambios en master
+Tarea 1.2
+
+Cambios en merge
+Tarea No prueba2
+Tarea No prueba2
+
+Cambio stash2
+
