@@ -15,6 +15,6 @@ Cambios KO
 for (i = 0; i < 10; i++)
 {
    console.log("i: " + i);
-   console.dir("Mitad de la VARIABLE i: " + (i/2));
+   console.dir("Mitad de la Variable i: " + (i/2));
    console.log("Doble i: " + (i*2));
 }
